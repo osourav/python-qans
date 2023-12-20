@@ -1,0 +1,7 @@
+Hello!
+this is a demo file
+i am 22 years old
+and my hobby is programming
+Thank you for visit
+see you soon
+--- bye bye ---
